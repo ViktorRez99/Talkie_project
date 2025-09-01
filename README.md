@@ -42,8 +42,6 @@ Talkie is a powerful real-time messaging platform designed for seamless communic
 ## 📸 Screenshots
 
 <div align="center">
-  <p>Add your application screenshots here</p>
-  
   <!-- Replace with actual screenshots -->
   <table>
     <tr>
