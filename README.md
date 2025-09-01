@@ -125,6 +125,13 @@ Talkie is a powerful real-time messaging platform designed for seamless communic
           <sub><b>Jaya Mondal</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/BIKRAM-DEBNATH">
+          <img src="https://github.com/BIKRAM-DEBNATH.png" width="100px;" alt="Contributor 5"/>
+          <br />
+          <sub><b>Bikram Debnath</b></sub>
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -135,14 +142,7 @@ Talkie is a powerful real-time messaging platform designed for seamless communic
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/BIKRAM-DEBNATH">
-          <img src="https://github.com/BIKRAM-DEBNATH.png" width="100px;" alt="Contributor 5"/>
-          <br />
-          <sub><b>Bikram Debnath</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
+        <a href="https://github.com/sayanghoshgit.png">
           <img src="https://github.com/sayanghoshgit.png" width="100px;" alt="Contributor 6"/>
           <br />
           <sub><b>Sayan Ghosh</b></sub>
